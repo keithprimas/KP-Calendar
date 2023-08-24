@@ -19,6 +19,7 @@ WHEN I refresh the page
 THEN the saved events persist
 
 ## Screenshot
+![Alt text](Assets/screenshot.png)
 
 
 ## Link
